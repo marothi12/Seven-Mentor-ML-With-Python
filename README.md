@@ -1,2 +1,4 @@
-# Solar-Secular-Soultion
-Corporate Web Solution internship  2025
+Python Topics like 
+List
+Tuple
+Operator
